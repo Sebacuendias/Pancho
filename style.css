@@ -1,0 +1,27 @@
+* {
+  margin: 0 auto;
+}
+
+.pancito {
+  height: 100px;
+  width: 850px;
+  border-radius: 20px;
+  background-color: #f2ba83;
+}
+
+#salchicha {
+  height: 100px;
+  width: 1000px;
+  background-color: #a52a2a;
+  border-radius: 50px;
+}
+
+#arriba {
+  border-bottom: 20px solid #b5956c;
+  border-radius: 200px 200px 50px 50px;
+}
+
+#abajo {
+  border-top: 20px solid #b5956c;
+  border-radius: 50px 50px 200px 200px;
+}
